@@ -66,7 +66,7 @@
 
 Affogata provides an insights platform that transforms unstructured data into actionable, real‑time intelligence for research, product, data and AI teams. Their solution offers public benchmarks, AI‑ready data, and a managed API layer that enables enterprises to govern, audit, and integrate noisy data sources across industries, supporting use cases from market research to AI agent training.
 
-**Areas:** AI · Data · Insights · Platform · Enterprise · Company
+**Areas:** Artificial Intelligence · Data · Insights · Platform · Enterprise · Company
 
 ## Affogata on APIs.io
 
@@ -80,8 +80,8 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Affogata Com Domain Security](https://apis.io/security/affogata-com/affogata-com-domain-security/)
-- [Affogata Com Trust Center](https://apis.io/security/affogata-com/affogata-com-trust-center/)
+- [Affogata Domain Security](https://apis.io/security/affogata-com/affogata-com-domain-security/)
+- [Affogata Trust Center](https://apis.io/security/affogata-com/affogata-com-trust-center/)
 
 ## Where to find this API
 
@@ -99,18 +99,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 20.2** — emerging · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 22.1** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 48.2 |
+| Discoverability | 55.4 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 5.3 |
+| Operational transparency | 4.8 |
 | Developer ergonomics | 31.0 |
-| Access clarity | 36.8 |
+| Access clarity | 46.8 |
 
-**Agent readiness 17.5** — agent-aware
+**Agent readiness 17.1** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -135,8 +135,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 17.3** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/affogata-com/](https://apis.io/providers/affogata-com/).
 
